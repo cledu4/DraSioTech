@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drasiotech.fr/sitemap.xml
+Sitemap: https://drasiotech.fr/Sitemaps.xml
